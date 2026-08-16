@@ -185,7 +185,6 @@ From a Sporting Director's perspective, the goal should therefore not simply be 
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Statsmodels
 - Jupyter / Google Colab
 - GitHub
