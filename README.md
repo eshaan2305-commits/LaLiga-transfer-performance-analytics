@@ -103,13 +103,13 @@ High-spending clubs achieved better average sporting outcomes, but the results a
 
 Club-seasons were classified into four strategic categories:
 
-### Big Spender – Successful
+### Big Spender - Successful
 High investment combined with strong sporting performance.
 
 ### Smart Spender
 Relatively low investment combined with strong sporting performance.
 
-### Low Investment – Low Performance
+### Low Investment - Low Performance
 Low spending accompanied by weaker sporting results.
 
 ### Expensive Underperformer
@@ -129,9 +129,9 @@ The project also evaluates transfer efficiency using measures such as:
 
 Examples of high-efficiency club-seasons included:
 
-- Real Sociedad — 2021
-- Villarreal CF — 2022
-- Getafe CF — 2019
+- Real Sociedad - 2021
+- Villarreal CF - 2022
+- Getafe CF - 2019
 
 These examples demonstrate that strong sporting outcomes can sometimes be achieved without extremely high transfer expenditure.
 
